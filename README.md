@@ -1,6 +1,6 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/choices-choices-justify-your-tech-stack/blob/main/docs/INSTRUCTIONS.md)
 
-# Justify My Tech-stack - Nuxt.js & Strapi
+# My Justified Tech-stack - Nuxt.js & Strapi
 
 ![image](https://github.com/jtoufik/Justify-your-tech-stack-Nuxt-Strapi/assets/112856590/e0f23350-685d-44dd-bfa4-f37e13b028d9)
 
