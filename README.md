@@ -25,14 +25,24 @@ Aan mij de taak om te onderzoeken of deze Tech-stack ook de moeite waard is om t
 <!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de ontwikkelervaring (DX) -->
 ## Belangrijkste inzichten voor de ontwikkelervaring (DX)
 
+- Nuxt.js:
+
+  Nuxt.js is een simpele framework, fijn om mee te werken en krijgt leuke features cadeau.
+
+- Strapi:
+
+   Strapi was nogal een uitdagend betreft data ophalen met GraphQL, maar wel simpele interface.
 
 <!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de content management ervaring (CMX) -->
 ## Belangrijkste inzichten voor de content management ervaring (CMX)
 
+- Strapi:
 
-<!-- Neem als conclusie een alinea op waarin je de voorwaarden benoemd die deze tech-stack aan de betrokken partijen stelt. -->
-## Voorwaarden Tech-stack
+   Strapi is simpel te gebruiken wat betreft content management.
 
 
 ## Bronnen
+
+* https://strapi.io/blog/setting-up-a-nuxt-app-with-strapi-using-graphql-building-an-event-app
+* https://strapi.io/blog/build-a-blog-using-nuxt-strapi-and-apollo
 
