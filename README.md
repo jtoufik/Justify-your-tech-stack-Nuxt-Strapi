@@ -14,31 +14,31 @@ Aan mij de taak om te onderzoeken of deze Tech-stack ook de moeite waard is om t
 <!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de gebruikservaring (UX) -->
 ## Belangrijkste inzichten voor de gebruikservaring (UX)
 
-- Nuxt.js:
+**Nuxt.js**
 
-  Nuxt.js biedt krachtige functies zoals server-side rendering, statische sitegeneratie, codeverdeling en een modulaire codebasis. Deze verbeteren de prestaties, verlagen laadtijden en bevorderen een positieve                 gebruikerservaring, waardoor het projectsucces wordt vergroot.
+  - Nuxt.js biedt krachtige functies zoals server-side rendering, statische sitegeneratie, codeverdeling en een modulaire codebasis. Deze verbeteren de prestaties, verlagen laadtijden en bevorderen een positieve                 gebruikerservaring, waardoor het projectsucces wordt vergroot.
 
-- Strapi:
+**Strapi**
 
-   Strapi is een nette Headless CMS met flexibiliteit, een gebruiksvriendelijke interface, schaalbaarheid, multi-platform ondersteuning, beveiliging en een actieve gemeenschap. Dit maakt het een voorkeursoplossing voor         ontwikkelaars en contentbeheerders die een optimale gebruikerservaring willen bieden door aan te passen aan projectbehoeften en sterke prestaties en beveiliging te garanderen.
+  - Strapi is een nette Headless CMS met flexibiliteit, een gebruiksvriendelijke interface, schaalbaarheid, multi-platform ondersteuning, beveiliging en een actieve gemeenschap. Dit maakt het een voorkeursoplossing voor         ontwikkelaars en contentbeheerders die een optimale gebruikerservaring willen bieden door aan te passen aan projectbehoeften en sterke prestaties en beveiliging te garanderen.
 
 <!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de ontwikkelervaring (DX) -->
 ## Belangrijkste inzichten voor de ontwikkelervaring (DX)
 
-- Nuxt.js:
+**Nuxt.js**
 
-  Nuxt.js is een simpele framework, fijn om mee te werken en krijgt leuke features cadeau.
+  - Nuxt.js is een simpele framework, fijn om mee te werken en krijgt leuke features cadeau.
 
-- Strapi:
+**Strapi**
 
-   Strapi was nogal een uitdagend betreft data ophalen met GraphQL, maar wel simpele interface.
+  - Strapi was nogal een uitdagend betreft data ophalen met GraphQL, maar wel simpele interface.
 
 <!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de content management ervaring (CMX) -->
 ## Belangrijkste inzichten voor de content management ervaring (CMX)
 
-- Strapi:
+**Strapi**
 
-   Strapi is simpel te gebruiken wat betreft content management.
+  - Strapi is simpel te gebruiken wat betreft content management.
 
 
 ## Bronnen
