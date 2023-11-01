@@ -40,7 +40,10 @@ Aan mij de taak om te onderzoeken of deze Tech-stack ook de moeite waard is om t
 
   - Strapi is simpel te gebruiken wat betreft content management.
 
+## Conclusie
 
+  - Deze Tech-stack vind ik wel geschikt voor mijn opdrachtgever, aangezien de CMS wel heel simpel te gebruiken is en de Framework ook fijn voor de ontwikkelaars aangezien het ook simpeler is ontwikkeld. Dus als men zoekt       voor een gemakkelijke Tech-stack, waarbij het opzetten wel lastig is maar het gebruik daarna wel fijn is, raad ik deze zeker aan.
+    
 ## Bronnen
 
 * https://strapi.io/blog/setting-up-a-nuxt-app-with-strapi-using-graphql-building-an-event-app
